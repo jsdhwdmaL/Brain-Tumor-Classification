@@ -4,7 +4,7 @@ Classify types of brain tumors using CNN and different optimizers.
 1. Adaptive Moment Estimation (Adam)
 2. Stochastic Gradient Descent (SGD)
 3. Genetic Algorithm (GA)
-### Results
+### Results 
 
 ## Sources
 ### Dataset
