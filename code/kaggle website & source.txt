@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/jojoyizhouli/brain-tumor-mri
+
+part of the code source (genetic algorithm):
+https://github.com/sainivedh/Genetic-CNN
